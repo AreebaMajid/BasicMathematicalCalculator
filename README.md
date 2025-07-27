@@ -40,7 +40,6 @@ As part of the **Web Development and Designing Internship at Oasis Infobyte**, I
 
 Here’s how the calculator looks and functions:
 
-![Calculator Output Screenshot](./output.png) <!-- Replace with actual path to your image -->
 
 * Neatly aligned buttons for numbers and operators
 * Display screen showing input and calculated result
@@ -48,4 +47,4 @@ Here’s how the calculator looks and functions:
 * Works smoothly on both desktop and mobile browsers
 
 ### 🔗 Live Demo:
-[Click here to view the live calculator](https://your-username.github.io/calculator-web-app)
+[Click here to view the live calculator]  https://areebamajid.github.io/BasicMathematicalCalculator/
