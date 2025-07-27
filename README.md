@@ -47,4 +47,4 @@ Here’s how the calculator looks and functions:
 * Works smoothly on both desktop and mobile browsers
 
 ### 🔗 Live Demo:
- https://areebamajid.github.io/BasicMathematicalCalculator/
+http://127.0.0.1:5500/index.html
